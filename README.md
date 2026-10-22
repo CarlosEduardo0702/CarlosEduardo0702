@@ -6,7 +6,7 @@ Recife, PE. Estudante de Análise e Desenvolvimento de Sistemas (FICR) e tutor d
 - LinkedIn: [linkedin.com/in/carlos-eduardo-105a572b0](https://linkedin.com/in/carlos-eduardo-105a572b0)
 - E-mail: carloseduardoribeirodesouzabr@gmail.com
 - Stack: C, Python, Java, JavaScript, HTML, CSS, SQL, Git
-- Interesses: suporte e infraestrutura de TI, redes, automação e segurança da informação
+- Interesses: suporte e Analise de Dados, QA, automação e segurança da informação
 
 ---
 
