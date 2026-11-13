@@ -48,7 +48,7 @@ Recife, PE. Estudante de Análise e Desenvolvimento de Sistemas (FICR) e tutor d
 
 ## Fora do código
 
-- Interesse em suporte e atendimento a usuários, resolução de problemas técnicos e automação.
+- Interesse em suporte e atendimento a usuários, resolução de problemas técnicos  e análise de dados.
 - Idiomas: Português (nativo) e Inglês (básico).
 
 ---
